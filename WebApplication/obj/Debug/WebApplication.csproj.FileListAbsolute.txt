@@ -1,0 +1,6 @@
+D:\STUDIA\programy\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\STUDIA\programy\WebApplication\WebApplication\bin\WebApplication.dll
+D:\STUDIA\programy\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\STUDIA\programy\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\STUDIA\programy\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+D:\STUDIA\programy\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
